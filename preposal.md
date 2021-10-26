@@ -8,6 +8,8 @@ A mod for stellaris
 
 A laser tripwire that sends me an email when it detects an intruder
 
+Building a tetris game, but with lasers in outer space, and pirate ninja robots to make it extra cool!
+
 
 
 
